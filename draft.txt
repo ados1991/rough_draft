@@ -4,3 +4,7 @@ search engine using mongodb
 https://www.sciencedirect.com/science/article/pii/S2352711017300110
 https://github.com/DormyMo/SpiderKeeper
 https://github.com/scrapy/scrapy
+
+
+https://www.wpbeginner.com/wp-tutorials/how-to-create-an-online-marketplace-using-wordpress/
+https://woofrance.fr/4-plugins-pour-creer-une-marketplace-avec-woocommerce/
